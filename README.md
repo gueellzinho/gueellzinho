@@ -21,7 +21,7 @@
     |
     ├──bio.txt
     |   ├──he/him - brazilian - (pt-br)
-    |   ├──second-semester Informatics student at Cotuca
+    |   ├──third-semester Informatics student at Cotuca
     |   ├──affinity for front-end development
     |   ├──always eager to learn and explore new technologies
     │   ├──continuously improving my skills to become a versatile developer
