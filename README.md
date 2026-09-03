@@ -4,7 +4,6 @@
 @@I'm a lover of technology and art@@
 
 + Living in Campinas, Brazil 🇧🇷 BEBE MUITO E NEM É DO ANO
-- 17 years old (that's what they say...)
 ! Back-end programmer and always studying some technology
 # Interested in JavaScript, C#, Java, Node stuff and what octopuses think
 ```
